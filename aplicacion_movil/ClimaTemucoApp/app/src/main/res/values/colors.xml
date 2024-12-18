@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colores base -->
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- Colores primarios -->
+    <color name="primary">#FF1976D2</color>
+    <color name="primary_container">#FFD1E4FF</color>
+    <color name="on_primary">#FFFFFFFF</color>
+    <color name="on_primary_container">#FF001D36</color>
+
+    <!-- Colores secundarios -->
+    <color name="secondary">#FF00796B</color>
+    <color name="secondary_container">#FFB2DFDB</color>
+    <color name="on_secondary">#FFFFFFFF</color>
+    <color name="on_secondary_container">#FF002021</color>
+
+    <!-- Colores de fondo -->
+    <color name="background">#FFFAFAFA</color>
+    <color name="on_background">#FF1A1C1E</color>
+    <color name="surface">#FFFFFFFF</color>
+    <color name="on_surface">#FF1A1C1E</color>
+
+    <!-- Colores de error -->
+    <color name="error">#FFB00020</color>
+    <color name="error_container">#FFFFDAD6</color>
+    <color name="on_error">#FFFFFFFF</color>
+    <color name="on_error_container">#FF410002</color>
+
+    <!-- Colores específicos para el clima -->
+    <color name="temperature_warm">#FFFF6B6B</color>
+    <color name="temperature_cold">#FF4ECDC4</color>
+    <color name="humidity">#FF45B7D1</color>
+    <color name="pressure">#FF96BAFF</color>
+    <color name="rain">#FF6C88C4</color>
+</resources>
